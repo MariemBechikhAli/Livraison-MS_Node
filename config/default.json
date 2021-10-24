@@ -1,0 +1,5 @@
+{
+  "mongoURI":  "mongodb+srv://mariem:mariem@cluster0.abn22.mongodb.net/e-commerce?retryWrites=true&w=majority",
+  "SecretOrkey":"SECRET"
+ 
+}
